@@ -1,0 +1,3 @@
+##This respositry contains code that will extract data from a pH meter, store this data using a SQL as a storage medium, and then use this data to create a titration curve plot.
+##This project is for the Computing 2 course at OKlahoma Baptist for the Spring of 2024 session. The contributors of this project are Rylie Spaulding, Caden Martin, and Levi 
+##Schrader.
